@@ -27,12 +27,6 @@ def callback(data):
 		print "send message to port: outport_Heimdall"
 
 	#--------------------------------------------------------------------------
-	# If message starts with "SRIC:", do SRIC stuff
-	#
-	if len(datastr) > 10 and datastr[:9] == "SRIC:":
-		
-
-	#--------------------------------------------------------------------------
 	# Todo: other types of messages/commands that a human operator might want to send
 	
 	

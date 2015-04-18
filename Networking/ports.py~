@@ -7,7 +7,6 @@ outport_HumanOperator = 9980
 
 listenport_Heimdall = 9981
 outport_Heimdall = 9982
-
 listenport_MAVProxy = 9983
 outport_MAVProxy = 9984
 
